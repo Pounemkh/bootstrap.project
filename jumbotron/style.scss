@@ -1,0 +1,9 @@
+@import "vars";
+@import "initialize.css";
+body {
+    background-color: $bgcolor;
+}
+.change {
+    background-color: $bcolor;
+    color: $color;
+}

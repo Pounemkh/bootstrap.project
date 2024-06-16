@@ -1,0 +1,9 @@
+@import "initialize.css";
+body {
+  background-color: #f2f2f2;
+}
+
+.change {
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
